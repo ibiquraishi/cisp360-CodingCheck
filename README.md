@@ -1,2 +1,2 @@
-# cisp360-CodingCheck
-Mini Reciept
+# Mini Receipt Assignment
+A C++ program that asks the user for an item name, quantity, and unit price, then calculates and displays a formatted receipt.
